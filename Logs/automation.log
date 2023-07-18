@@ -1,0 +1,71 @@
+2023-07-11 16:24:06 PM;WARNING;The version of chrome cannot be detected. Trying with latest driver version
+2023-07-11 16:24:08 PM;INFO;*************Test_02_DDT_Login**************
+2023-07-11 16:24:08 PM;INFO;************* Verifying Home Page Title **************
+2023-07-11 16:24:10 PM;INFO;************* Home Page Title Test is passed **************
+2023-07-11 16:24:10 PM;WARNING;The version of chrome cannot be detected. Trying with latest driver version
+2023-07-11 16:24:12 PM;INFO;************* Verifying Login Test **************
+2023-07-11 16:24:18 PM;INFO;*************Passed**************
+2023-07-11 16:38:25 PM;WARNING;The version of chrome cannot be detected. Trying with latest driver version
+2023-07-11 16:38:26 PM;INFO;*************Test_02_DDT_Login**************
+2023-07-11 16:38:26 PM;INFO;************* Verifying Home Page Title **************
+2023-07-11 16:38:28 PM;INFO;************* Home Page Title Test is passed **************
+2023-07-11 16:38:28 PM;WARNING;The version of chrome cannot be detected. Trying with latest driver version
+2023-07-11 16:38:30 PM;INFO;************* Verifying Login Test **************
+2023-07-11 16:38:37 PM;INFO;*************Passed**************
+2023-07-11 16:41:22 PM;WARNING;The version of chrome cannot be detected. Trying with latest driver version
+2023-07-11 16:41:24 PM;INFO;*************Test_02_DDT_Login**************
+2023-07-11 16:41:24 PM;INFO;************* Verifying Home Page Title **************
+2023-07-11 16:41:27 PM;INFO;************* Home Page Title Test is passed **************
+2023-07-11 16:41:28 PM;WARNING;The version of chrome cannot be detected. Trying with latest driver version
+2023-07-11 16:41:29 PM;INFO;************* Verifying Login Test **************
+2023-07-11 16:41:36 PM;INFO;*************Passed**************
+2023-07-11 16:41:42 PM;INFO;*************Passed**************
+2023-07-11 16:43:24 PM;WARNING;The version of chrome cannot be detected. Trying with latest driver version
+2023-07-11 16:43:25 PM;INFO;*************Test_02_DDT_Login**************
+2023-07-11 16:43:25 PM;INFO;************* Verifying Home Page Title **************
+2023-07-11 16:43:26 PM;INFO;************* Home Page Title Test is passed **************
+2023-07-11 16:43:27 PM;WARNING;The version of chrome cannot be detected. Trying with latest driver version
+2023-07-11 16:43:29 PM;INFO;************* Verifying Login Test **************
+2023-07-11 16:43:37 PM;INFO;*************Passed**************
+2023-07-11 16:43:43 PM;INFO;*************Passed**************
+2023-07-11 16:45:33 PM;WARNING;The version of chrome cannot be detected. Trying with latest driver version
+2023-07-11 16:45:34 PM;INFO;*************Test_02_DDT_Login**************
+2023-07-11 16:45:34 PM;INFO;************* Verifying Home Page Title **************
+2023-07-11 16:45:36 PM;INFO;************* Home Page Title Test is passed **************
+2023-07-11 16:45:36 PM;WARNING;The version of chrome cannot be detected. Trying with latest driver version
+2023-07-11 16:45:38 PM;INFO;************* Verifying Login Test **************
+2023-07-11 16:45:45 PM;INFO;*************Passed**************
+2023-07-11 16:45:51 PM;INFO;*************Passed**************
+2023-07-11 16:49:33 PM;WARNING;The version of chrome cannot be detected. Trying with latest driver version
+2023-07-11 16:49:34 PM;INFO;*************Test_02_DDT_Login**************
+2023-07-11 16:49:34 PM;INFO;************* Verifying Home Page Title **************
+2023-07-11 16:49:36 PM;INFO;************* Home Page Title Test is passed **************
+2023-07-11 16:49:37 PM;WARNING;The version of chrome cannot be detected. Trying with latest driver version
+2023-07-11 16:49:39 PM;INFO;************* Verifying Login Test **************
+2023-07-11 16:49:46 PM;INFO;*************Passed**************
+2023-07-11 16:49:54 PM;INFO;*************Passed**************
+2023-07-11 16:50:10 PM;WARNING;The version of chrome cannot be detected. Trying with latest driver version
+2023-07-11 16:50:12 PM;INFO;*************Test_02_DDT_Login**************
+2023-07-11 16:50:12 PM;INFO;************* Verifying Home Page Title **************
+2023-07-11 16:50:13 PM;INFO;************* Home Page Title Test is passed **************
+2023-07-11 16:50:13 PM;WARNING;The version of chrome cannot be detected. Trying with latest driver version
+2023-07-11 16:50:15 PM;INFO;************* Verifying Login Test **************
+2023-07-11 16:50:23 PM;INFO;*************Passed**************
+2023-07-11 16:50:30 PM;INFO;*************Passed**************
+2023-07-11 16:50:42 PM;INFO;*************Passed**************
+2023-07-11 16:50:49 PM;INFO;*************Passed**************
+2023-07-11 16:50:49 PM;INFO;*************DDT Test Case is Passed **************
+2023-07-11 16:50:49 PM;INFO;************* End of DDT Test Case **************
+2023-07-11 17:23:48 PM;WARNING;The version of chrome cannot be detected. Trying with latest driver version
+2023-07-11 17:23:50 PM;INFO;*************Test_001_Login**************
+2023-07-11 17:23:50 PM;INFO;************* Verifying Home Page Title **************
+2023-07-11 17:23:51 PM;INFO;************* Home Page Title Test is passed **************
+2023-07-11 17:23:52 PM;WARNING;The version of chrome cannot be detected. Trying with latest driver version
+2023-07-11 17:23:54 PM;INFO;************* Verifying Login Test **************
+2023-07-11 17:23:57 PM;INFO;************* Login Test is passed **************
+2023-07-11 17:57:40 PM;WARNING;The version of chrome cannot be detected. Trying with latest driver version
+2023-07-11 17:57:43 PM;INFO;************* Verifying Login Test **************
+2023-07-11 17:57:43 PM;INFO;*************Test_001_Login**************
+2023-07-11 17:57:43 PM;INFO;************* Verifying Home Page Title **************
+2023-07-11 17:57:45 PM;INFO;************* Home Page Title Test is passed **************
+2023-07-11 17:57:47 PM;INFO;************* Login Test is passed **************
