@@ -1,1 +1,1 @@
-pytest -v -s -n=2 --html=Reports\report.html Test_cases/test_admin_login.py --browser Chrome
+pytest -v -s --html=Reports\report.html Test_cases/test_admin_login.py --browser Chrome
